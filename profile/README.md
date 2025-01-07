@@ -1,3 +1,6 @@
+
+![alt text](https://github.com/StardustOS/.github/blob/main/profile/logo.png "Stardust")
+
 # What is Stardust?
 
 Stardust is a unikernel operating system designed to run Cloud applications in a protected, single-address space environment. It delegates the management of physical resources to an underlying hypervisor which is treated as a trusted platform. Stardust has a small code base that can be maintained easily, and relies on static linking to combine a minimal kernel with a single application, along with the libraries and associated programming language run-time required for the execution of the application. Due to static linking, an executable binary of Stardust is packaged within an immutable single-purpose virtual machine image. Stardust supports multiple cores, preemptive threads, and basic block and networking drivers, and provides a collection of standard POSIX-compatible libraries.
