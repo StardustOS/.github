@@ -6,21 +6,9 @@ Stardust is being used in supporting the teaching and research activities at the
 
 # Projects
 
-## Stardust
-
-[Stardust](https://github.com/StardustOS/stardust) provides the unikernel implementation in C.
-
-## Stardust-oxide
-
-[Stardust-oxide](https://github.com/StardustOS/stardust-oxide) is a re-implementation of the unikernel in Rust.
-
-## Duster
-
-The [duster](https://github.com/StardustOS/duster) project provides a small debugger for para-virtualised Unikernels written in C that run on the Xen hypervisor.
-
-## Minimal
-
-A minimal kernel used as a reference implementation to support teaching activities.
+- [Stardust](https://github.com/StardustOS/stardust) provides the unikernel implementation in C.
+- [Stardust-oxide](https://github.com/StardustOS/stardust-oxide) is a re-implementation of the unikernel in Rust.
+- [Duster](https://github.com/StardustOS/duster) project provides a small debugger for para-virtualised Unikernels written in C that run on the Xen hypervisor.
 
 # Talks
 
